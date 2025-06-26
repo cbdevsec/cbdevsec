@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
-<h3 align="center">A curious feline</h3>
+<h3 align="center">Junior Cybersecurity Analyst</h3>
 
 - 🔭 I’m currently working on **a bunch of projects**
 
