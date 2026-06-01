@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **Backend dev**
 
-- 👨‍💻 All of my projects are available at [cbdevsec.github.io/projects](cbdevsec.github.io/projects)
+- 👨‍💻 All of my projects are available at [cbdevsec.github.io/](cbdevsec.github.io/)
 
-- 📝 I regularly write articles on [cbdevsec.github.io/blog](cbdevsec.github.io/blog)
 
 - 📫 How to reach me **ayakhiouat@gmail.com**
 
