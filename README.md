@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aya</h1>
+<h1 align="center">Hi, I'm Aya</h1>
 <h3 align="center">Junior Cybersecurity Analyst</h3>
 
   - 🛡️ OPSWAT-certified in OT Security (OOSE), Cisco-certified in cybersecurity fundamentals & threat management
