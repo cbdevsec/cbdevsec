@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">Junior Cybersecurity Analyst</h3>
 
-- 🔭 I’m currently working on **a bunch of projects**
-
-- 🌱 I’m currently learning **Backend dev**
-
-- 👨‍💻 All of my projects are available at [cbdevsec.github.io/](cbdevsec.github.io/)
-
-
-- 📫 How to reach me **ayakhiouat@gmail.com**
+🛡️ OPSWAT-certified in OT Security (OOSE), Cisco-certified in cybersecurity fundamentals & threat management
+🏆 AgisCore XDR, awarded Best Project in my IT Systems Maintenance specialization
+🔭 Currently building hands-on SOC/blue-team projects: vulnerability assessments, log analysis, MITRE ATT&CK mapping
+🌱 Currently deepening skills in incident response, scripting (Python), and cloud security
+📫 Reach me at ayakhiouat@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
